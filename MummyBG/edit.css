@@ -29,13 +29,6 @@
     opacity: 0;
 }
 
-.ds4 .button {
-    position: absolute;
-    width: 55px;
-    height: 55px;
-    background: url(face.png);
-}
-
 
 .ds4 .stick {
     position: absolute;
