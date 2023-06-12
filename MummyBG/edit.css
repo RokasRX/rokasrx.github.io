@@ -18,7 +18,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumper.png) no-repeat;
+    background: url(bumper.png);
     opacity: 0;
 }
 
